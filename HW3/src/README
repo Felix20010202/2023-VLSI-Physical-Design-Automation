@@ -1,0 +1,11 @@
+How to Compile:
+In HW3/src, enter the following command:
+$ make
+An executable file "hw3" will be generated in "HW3/bin"
+
+If you want to remove all executable files, please enter the following command:
+$make clean
+
+Execute:
+$ <executable file> <Input file> <output file>
+E.g., ../bin/hw3 ../testcase/public1.txt ../output/public1.floorplan
