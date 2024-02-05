@@ -1,0 +1,13 @@
+How to Compile:
+In HW2/src, enter the following command:
+$ make
+An executable file "hw2" will be generated in "HW2/bin"
+An executable file "hw2_parallel" will be generated in "HW2/bin"
+
+If you want to remove all executable files, please enter the following command:
+$make clean
+
+Execute:
+$ <executable file> <Input file> <output file>
+E.g., ../bin/hw2 ../testcase/public1.txt ../output/public1.out
+E.g., ../bin/hw2 ../testcase/public1.txt ../output/public1.out
